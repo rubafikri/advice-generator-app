@@ -27,9 +27,6 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 ![](./design/mobile-design.jpg)
 
-### Links
-
-- Solution URL: [https://github.com/Krrish105/Advice-Generator-App](https://github.com/Krrish105/Advice-Generator-App)
 
 ## My process
 
